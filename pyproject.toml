@@ -1,0 +1,12 @@
+[project]
+name = "spdxverify"
+version = "0.1.2"
+description = "spdx[<3.0] verification tool"
+readme = "README.md"
+requires-python = ">=3.0"
+dependencies = [
+    "spdx-tools>=0.8.3",
+]
+
+[project.scripts]
+spdxverify = "spdxverify:main"
