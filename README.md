@@ -29,6 +29,10 @@ NOT-SUPPORTED SPDX 3.0 yet. Check this [issue-760](https://github.com/spdx/tools
     pip install spdxverify
     ```
 
+## Source & Registry
+- Source is available here [github](https://github.com/dineshr93/spdxverify)
+- Registry link is [pypi](https://pypi.org/project/spdxverify)
+
 ## Usage
 
 Run the verification tool on an SPDX file:
