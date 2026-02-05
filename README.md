@@ -3,7 +3,7 @@
 This repository contains standalone command for verifying SPDX (Software Package Data Exchange) documents.
 
 ## Note
-[NOT-SUPPORTED SPDX 3.0 https://github.com/spdx/tools-python/issues/760]
+NOT-SUPPORTED SPDX 3.0 yet. Check this [issue-760](https://github.com/spdx/tools-python/issues/760)
 
 ## Features
 
@@ -57,3 +57,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 - [SPDX Specification](https://spdx.dev/specifications/)
 - [SPDX Tools](https://github.com/spdx/tools-python)
+
